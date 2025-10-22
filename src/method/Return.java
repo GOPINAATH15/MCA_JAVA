@@ -11,6 +11,5 @@ public class Return {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Return n = new Return();
-		System.out.println(n.display(10,20));
 	}
 }
