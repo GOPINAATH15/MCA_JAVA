@@ -1,4 +1,4 @@
-package add_on;
+package conditional_statement;
 
 public class Maximum {
 
